@@ -4,8 +4,8 @@ Allows you to get the QR code by by adding `.qr` to the end of the short URL.
 
 ## Installation
 
-1. Move the `qr` folder into the root folder. The interface for displaying QR codes will be at `YOURLS_SITE/qr` 
-1. Move the `qr-code-svg-local` folder into the `/users/plugins` folder. Then, activate the plugin in the admin interface.
+1. Clone this repo to into the `/users/plugins` directory
+1. Move the `qr` directory into the root direcotry. The interface for displaying QR codes will be at `YOURLS_SITE/qr`.
 1. Go to the Plugins Administration page and activate the plugin.
 1. Have fun! 🤖
 
